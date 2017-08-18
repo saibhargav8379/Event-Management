@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<infos>
+    <info>
+        <city>Kansas city</city>
+        <address>8553 Chip man Road, Kansas City, Missouri</address>
+        <phone>660-234-5678</phone>
+        <email>EventManageKC@gmail.com</email>
+    </info>
+	 <info>
+        <city>Saint Louis</city>
+        <address>5523 Hill Man Road, St.Louis, Missouri</address>
+        <phone>660-450-4123</phone>
+        <email>EventManagest@gmail.com</email>
+    </info>
+	 <info>
+        <city>Jefferson City</city>
+        <address>3456 College Boulevard, Jefferson, Missouri</address>
+        <phone>660-450-4123</phone>
+        <email>EventManagejeff@gmail.com</email>
+    </info>
+	<info>
+        <city>San Diego</city>
+        <address>3456 Mill Man Road, San Diego, CA</address>
+        <phone>645-231-0934</phone>
+        <email>EventManagepa@gmail.com</email>
+    </info>
+	<info>
+        <city>Pheonix</city>
+        <address>3456 Mill Man Road, Pheonix, Missouri</address>
+        <phone>645-231-0934</phone>
+        <email>EventManagepa@gmail.com</email>
+    </info>
+	<info>
+        <city>Bentonville</city>
+        <address>3509 New Main Road, Bentonville, Missouri</address>
+        <phone>645-231-0934</phone>
+        <email>EventManageba@gmail.com</email>
+    </info>
+</infos>

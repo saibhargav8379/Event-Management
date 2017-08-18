@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<events>
+    <event>
+        <name>Marriage</name>
+        <services>Flower Decorations are provided as a Complementary</services>
+        <price>15000</price>
+        <guestCount>Mininum 200 person maximum of 1200.</guestCount>
+    </event>
+	<event>
+        <name>Reception</name>
+        <services>Complementary Deserts are provided </services>
+        <price>10000</price>
+        <guestCount>Mininum 100 person maximum of 600.</guestCount>
+    </event>
+	<event>
+        <name>Engagement</name>
+        <services>Complementary Decorations </services>
+        <price>9000</price>
+        <guestCount>Mininum 300 person maximum of 900.</guestCount>
+    </event>
+	<event>
+        <name>Birthday</name>
+        <services>Complementary Toys are provided for children. </services>
+        <price>1000</price>
+        <guestCount>Mininum 50 person maximum of 150.</guestCount>
+    </event>
+	<event>
+        <name>Coporate</name>
+        <services>Games are organized for coroporate people </services>
+        <price>3000</price>
+        <guestCount>Mininum 50 person maximum of 300.</guestCount>
+    </event>
+	<event>
+        <name>Get-Together</name>
+        <services>Various Games and fun for the event people</services>
+        <price>1500</price>
+        <guestCount>Mininum 50 person maximum of 250.</guestCount>
+    </event>
+</events>
